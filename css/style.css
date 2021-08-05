@@ -2,18 +2,23 @@ html {
 	font-family: Roboto;
 }
 
+body {
+	background-color: dimgrey;
+}
+
 a {
 	text-decoration: none;
 }
 
 .container {
 	width: 900px;
-	margin: 0 auto;
+	margin: 100px auto 100px;
 	border-width: 1px;
 	border-color: blue;
 	border-style: solid;
 	border-radius: 5px;
 	border-width: 2px;
+	background-color: #ffffff;
 }
 
 h1 {
